@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="True">
+    <ui:VisualElement style="flex-grow: 1;">
+        <ui:Label text="test" view-data-key="test" style="-unity-text-align: upper-center; -unity-font-style: bold;"/>
+    </ui:VisualElement>
+    <ui:VisualElement style="flex-grow: 1;"/>
+</ui:UXML>
